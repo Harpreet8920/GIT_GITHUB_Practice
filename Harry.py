@@ -12,3 +12,5 @@ def modulus(a,b):
     return a%b
 def max(a,b,c):
     return max(a,b,c)
+def min (a,b,c):
+    return min(a,b,c)
