@@ -1,5 +1,5 @@
-def addition(a:int,b:int):
-    return a+b
+def addition(a:int,b:int,c:int):
+    return a+b+c
 def subtraction(a:int,b:int):
     return a-b
 def multiply(a,b):
