@@ -1,1 +1,2 @@
-## Practicsing git commands
+## Practice git commands
+# AI stands for Artificial Intelligence
