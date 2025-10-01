@@ -8,3 +8,5 @@ def division(a,b):
     return a/b;
 def modulus(a,b):
     return a%b
+def max(a,b,c):
+    return max(a,b,c)
