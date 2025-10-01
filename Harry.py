@@ -1,7 +1,7 @@
 def addition(a:int,b:int,c:int):
     return a+b+c
-def subtraction(a:int,b:int):
-    return a-b
+def subtraction(a:int,b:int,d:int):
+    return a-b-d
 def multiply(a,b):
     return a*b
 def division(a,b):
